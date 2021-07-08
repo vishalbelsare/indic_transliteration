@@ -121,13 +121,18 @@
     },
     {
       "description": "A general test for Roman scripts without equivalents for some devanAgarI letters, like optitrans",
-      "dev": "पड़िब छीड़ा ऴ ऱ",
-      "optitrans": "pa.Diba Chii.Daa .La .Rha"
+      "dev": "पड़िब छीड़ा ऴ ऱ",
+      "optitrans": "pa.Diba ChI.DA .La .Rha"
     },
     {
       "description": "hrasva e and o",
       "dev": "ऎट ऒट कॆकॊकि",
       "optitrans": "ETa OTa kEkOki"
+    },
+    {
+      "description": "ea and oa",
+      "dev": "कॉफी ऍक ऑक",
+      "optitrans": "koaphI eaka oaka"
     }
   ]
 }
