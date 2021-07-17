@@ -123,7 +123,7 @@
     {
       "description": "A general test for scripts without equivalents for some devanAgarI letters, like gurmukhI, bengali and tamil",
       "dev": "असय औषधिः ग्रन्थः! ॡकारो नास्ति लेशोऽपि संशयः। कीलकम्? कूपिः?  कष्ठं भोः। शङ्कर! ज्ञानम्।  सञ्जीवय। १२३४५॥ ॐ तत्। अब अव",
-      "bengali": "অসয ঔষধিঃ গ্রন্থঃ! ৡকারো নাস্তি লেশোঽপি সংশযঃ। কীলকম্? কূপিঃ?  কষ্ঠং ভোঃ। শঙ্কর! জ্ঞানম্।  সঞ্জীবয। ১২৩৪৫॥ ॐ তত্। অব অব",
+      "bengali": "অসয ঔষধিঃ গ্রন্থঃ! ৡকারো নাস্তি লেশোঽপি সংশযঃ। কীলকম্? কূপিঃ?  কষ্ঠং ভোঃ। শঙ্কর! জ্ঞানম্।  সঞ্জীবয। ১২৩৪৫॥ ওঁ তত্। অব অব",
       "gurmukhi": "ਅਸਯ ਔਸ਼ਧਿਃ ਗ੍ਰਨ੍ਥਃ! ॡਕਾਰੋ ਨਾਸ੍ਤਿ ਲੇਸ਼ੋऽਪਿ ਸਂਸ਼ਯਃ। ਕੀਲਕਮ੍? ਕੂਪਿਃ?  ਕਸ਼੍ਠਂ ਭੋਃ। ਸ਼ਙ੍ਕਰ! ਜ੍ਞਾਨਮ੍।  ਸਞ੍ਜੀਵਯ। ੧੨੩੪੫॥ ੴ ਤਤ੍। ਅਬ ਅਵ"
     },
     {
@@ -265,7 +265,7 @@
     "wx": {
       "vowels": "a A i I u U q Q L ḹ e E o O",
       "marks": "ka KA gi GI fu cU Cq jQ JL Fḹ te TE do DO NaM waH W",
-      "consonants": "ka Ka ga Ga fa ca Ca ja Ja Fa ta Ta da Da Na wa Wa xa Xa na pa Pa ba Ba ma ya ra la va Sa Ra sa ha ḻa",
+      "consonants": "ka Ka ga Ga fa ca Ca ja Ja Fa ta Ta da Da Na wa Wa xa Xa na pa Pa ba Ba ma ya ra la va Sa Ra sa ha l̤a",
       "symbols": "oM . .. 0 1 2 3 4 5 6 7 8 9",
       "putra": "puwra",
       "naraIti": "nara iwi",
